@@ -48,9 +48,10 @@ Little_Learners_web
 
 ---
 
-## 📸 Preview
+## 📸 Preview Design vs Development
 
-> ![alt text](image.png)
+> ![Design vs Development](figma-design-development-state-comparison.png)
+
 ---
 
 ## 🚀 Getting Started
